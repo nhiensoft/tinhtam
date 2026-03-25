@@ -1,0 +1,43 @@
+- header / navigation
+  - links: #home, #country, #university, #pride, #chatbot
+
+- hero section (#home)
+  - H1: Dấu ấn Việt Nam
+  - H2: Niềm tự hào trong tim
+  - paragraph intro
+  - CTA buttons
+
+- country section (#country)
+  - title + subtitle
+  - map image
+  - city switch buttons: Hà Nội, Ninh Bình, Huế, TP.HCM
+  - city detail panel with tabs: Lịch sử / Cảnh quan
+
+- landmarks section
+  - main spotlight image
+  - prev/next controls
+  - thumbnail rail for 7 landmarks
+
+- university section (#university)
+  - intro text
+  - metrics cards (4)
+  - two-column content: programs / mission
+  - tuyển sinh CTA
+
+- pride section (#pride)
+  - heading + short intro
+  - multi-card highlights
+  - testimonials carousel/card area
+
+- chatbot section (#chatbot)
+  - assistant intro
+  - sample chat UI
+  - suggested questions buttons
+
+- final CTA + contact
+  - tuyển sinh CTA
+  - contact blocks: address, phone, email
+
+- footer
+  - quick links
+  - contact info
